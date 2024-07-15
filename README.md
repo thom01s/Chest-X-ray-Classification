@@ -169,19 +169,25 @@ Vídeo de apresentação: https://youtu.be/jJI6fs9V7w4?si=zC1o56KrbsCVcJnv
 CNN:
 
 https://keras.io/examples/timeseries/timeseries_classification_from_scratch/
+
 https://keras.io/examples/vision/mnist_convnet/
+
 https://keras.io/examples/vision/
 
 Resnet-50:
 
 https://datagen.tech/guides/computer-vision/resnet-50/
+
 https://keras.io/api/applications/resnet/
 
 ## Meta
 
 Thomas Sponchiado Pastore – [@Thomas_spastore](https://www.instagram.com/thomas_spastore?igsh=Z3RlYjRjaThpNmlu) – thomas.spastore@gmail.com
+
 Thomaz Justo - [@thomaz_justo](https://www.instagram.com/thomaz_justo?igsh=MWE5aDN5enh2Y2E3aw==)
+
 Yuri Kiefer Alves - [@poraiyuri](https://www.instagram.com/poraiyuri?igsh=MTQxdmN1aGNjczEwdQ==)
+
 Lucas Schneider - schneider.lusca@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
@@ -190,10 +196,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contribuição
 1. Fork it (<https://github.com/thom01s/Chest-X-ray-Classification/fork>)
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
+3. Create your feature branch
+4. Commit your changes
+5. Push to the branch
+6. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
